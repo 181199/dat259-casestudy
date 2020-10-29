@@ -1,0 +1,919 @@
+account
+bank identification number
+BIN
+biometric
+card
+cookie
+credential
+credit card
+credit-card
+creditcard
+date of birth
+dob
+e-cash
+ecash
+electronic commerce
+electronic signature
+electronic wallet
+fingerprint
+GeldKarte
+home address
+identity
+ip
+ip address
+key
+keys
+log in
+login
+PAN
+passphrase
+password
+payment card
+personal health information
+personal identifiable information
+personal identification number
+personally identifiable information
+phi
+phone
+pii
+pin
+pins
+primary account number
+pswd
+secret
+serial number
+session
+smart card
+thumbprint
+ticket
+token
+user
+user name
+userid
+username
+uuid
+3DES
+access control
+access level
+access policy
+access profile
+access right
+access role
+access-policy
+access-role
+accesspolicy
+accessrole
+ACL
+admin
+administration
+administrator
+Advanced Encryption Standard
+AES
+anomaly detection
+anonymity
+anonymizer
+anonymous credential
+anonymous login
+anti-jam
+anti-virus
+antivirus
+anti virus
+attack tree
+audit
+audit log
+audit service
+audit trail
+audited
+auditing
+AUTH
+authenticate
+authenticating
+authentication
+authenticity
+authorization
+authorize
+availability
+back up
+back-up
+backup
+basicauth
+bcrypt
+biometric authentication
+black list
+black-list
+blacklist
+Blocking
+Blowfish
+Bounds Checking
+Bytecode obfuscation
+Canonicalization
+CAPTCHAS
+cert
+certificate
+Certificate
+certify
+challenge-response
+checksum
+cipher
+code signing
+Concurrency
+confidential
+confidentiality
+Configuration
+configuration control
+consent
+containerize
+content filter
+content signing
+contingency plan
+control
+Control Term
+countermeasure
+countermeasures
+crypto
+cryptographic
+cryptography
+DAC
+Data Encryption Algorithm
+data encryption key
+Data Encryption Standard
+DEA
+decipher
+decode
+decoding
+decrypt
+decryption
+defense
+defense in depth
+DEK
+DES
+detection
+deterrence
+digest
+Digital Signature Algorithm
+Digital Signature Standard
+discretionary access control
+DSA
+DSS
+dual control
+economy of alternatives
+economy of mechanism
+EKMS
+electronic codebook
+Electronic Key Management System
+Encapsulating Security Payload
+Encoding
+Encode
+encoded
+encrypt
+encrypted
+encryption
+enforce
+entrapment
+entropy
+error detection code
+Error Handling
+ESP
+event log
+eventlog
+Executable space protection
+extraction resistance
+extrusion detection
+fail safe
+fail secure
+fail soft
+fail-safe
+fail-secure
+fail-soft
+failure control
+failover
+fairness
+fault tree
+FEAL
+File Transfer Protocol
+filter
+filtering router
+firewall
+frame busting
+frame buster
+FPKI
+FTP
+grey list
+grey-list
+greylist
+harden
+hash
+hashes
+https
+ICMP
+IDEA
+Identity Management
+IMAP4
+input validation
+integrity
+integrity check
+interoperability
+intrusion detection
+Intrusion Prevention
+IP Security Protocol
+IPsec
+Kerberos
+key
+keystore
+LDAP
+least common mechanism
+least privilege
+least trust
+Lightweight Directory Access Protocol
+load
+log out
+log server
+Logging
+logout
+logserver
+MAC
+mandatory access control
+MD2
+MD4
+MD5
+Memory Management
+message digest
+mitigate
+mitigation
+non repudiation
+non-repudiation
+oauth
+onion routing
+open auth
+open-auth
+openauth
+openid
+output escaping
+parameterization
+Parameterized Command Interface
+pbkdf2
+PDF Attack Filter
+pgp
+permission
+permissions
+performance
+Pinning
+Point-to-Point Protocol
+Point-to-Point Tunneling Protocol
+PPP
+PPTP
+privacy
+private key
+private-key
+privatekey
+privilege
+protect
+protection
+protocol
+pseudorandom
+public key
+Public Key
+public-key
+publickey
+Public Key Cryptography Standards
+pkcs
+Query Parameterization
+Quotas
+random number generator
+Randomization
+RBAC
+readonly
+remember me
+repudiation
+resistant
+Resource Locking
+role based access control
+role-based access control
+rule based security policy
+rule-based security policy
+S-BGP
+S-HTTP
+S/MIME
+Safe Libraries
+safe
+safety
+safer
+salt
+sandbox
+scrypt
+secret
+secret question
+secure
+Secure BGP
+Secure Data Exchange
+Secure Hash Algorithm
+Secure Hash Standard
+Secure Hypertext Transfer Protocol
+Secure Shell
+secure socket layer
+Secure Sockets Layer
+Secure/MIME
+SecureFlag
+security
+security control
+Session Management
+SHA
+sha1
+sha256
+sha512
+SHS
+sign
+sign on
+sign out
+sign-on
+signature
+signed
+signing
+signout
+Simple Network Management Protocol
+SMTP
+SNMP
+sqlAuthorization
+SSH
+SSL
+sslv3
+sso
+single sign on
+Stack-smashing Protection
+Static Code Analysis
+stream cipher
+swIPe
+thread-safe
+thread safe
+thread safety
+TLS
+token
+Tokenizing
+Transport Layer Security
+traffic analysis
+Triple Data Encryption
+trust
+trusted
+Twofish
+unforgeable
+validate
+validate input
+validation
+verification
+verify
+virus scan
+virus
+vpn
+white list
+white-list
+whitelist
+x.509
+x509
+Device Cookies
+Account lockout
+Locking Account
+framekiller
+x frame option
+x frame options
+content security policy
+escape
+escaping
+escaped
+restrict
+revocation
+revocation
+revoke
+anti-phishing
+anti phishing
+Cache-Control
+access
+clear text
+cleartext
+config
+configuration
+degradation
+delete
+deny
+disk space
+enable
+error
+exception
+execute
+expiration
+expire
+expiring
+expiry
+guest login
+heap memory
+inactive
+incorrect
+incorrectly
+invalid
+invalidate
+log
+loop
+memory
+misuse
+null
+null pointer
+null-pointer
+nullpointer
+nullpointerexception
+non-final public field
+obstruction
+parameter
+pathname
+port scan
+privileged user
+probe
+problem
+reactivate
+reactivation
+register
+renewal
+residual risk
+resource
+restart
+risk
+risky
+stacktrace
+suspend
+terminate
+timeout
+unhandled
+unprotect
+unstable
+unvalidate
+visibility
+wrong
+ArithmeticException
+ArrayIndexOutOfBoundsException
+ArrayStoreException
+ClassCastException
+IllegalArgumentException
+IllegalMonitorStateException
+IllegalStateException
+IllegalThreadStateException
+IndexOutOfBoundsException
+NegativeArraySizeException
+NullPointerException
+NumberFormatException
+SecurityException
+StringIndexOutOfBounds
+UnsupportedOperationException
+ClassNotFoundException
+CloneNotSupportedException
+IllegalAccessException
+InstantiationException
+InterruptedException
+NoSuchFieldException
+NoSuchMethodException
+SystemException
+AccessException
+ArgumentException
+ArgumentNullException
+ArgumentOutOfRangeException
+ArrayTypeMismatchException
+BadImageFormatException
+CoreException
+DivideByZeroException
+FormatException
+IndexOutofRangeException
+InvalidCastException
+InvalidOperationException
+MissingmemberException
+NotFiniteException
+NotSupportedException
+NullReferenceException
+OutofmemoryException
+StackOverFlowException
+logic_error
+invalid_argument
+domain_error
+length_error
+out_of_range
+future_error
+bad_optional_access
+runtime_error
+range_error
+overflow_error
+underflow_error
+regex_error
+tx_exception
+system_error
+ios_base::failure
+filesystem_filesystem_error
+bad_typeid
+bad_cast
+bad_any_cast
+bad_weak_ptr
+bad_function_call
+bad_alloc
+bad_array_new_length
+bad_exception
+ios_base_failure
+bad_variant_access
+BadFunctionCallException
+BadMethodCallException
+DomainException
+InvalidArgumentException
+LengthException
+LogicException
+OutOfBoundsException
+OutOfRangeException
+OverflowException
+RangeException
+RuntimeException
+UnderflowException
+UnexpectedValueException
+BaseException
+SystemExit
+KeyboardInterrupt
+GeneratorExit
+Exception
+StopIteration
+StopAsyncIteration
+ArithmeticError
+FloatingPointError
+OverflowError
+ZeroDivisionError
+AssertionError
+AttributeError
+BufferError
+EOFError
+ImportError
+LookupError
+IndexError
+KeyError
+MemoryError
+NameError
+UnboundLocalError
+OSError
+BlockingIOError
+ChildProcessError
+ConnectionError
+BrokenPipeError
+ConnectionAbortedError
+ConnectionRefusedError
+ConnectionResetError
+FileExistsError
+FileNotFoundError
+InterruptedError
+IsADirectoryError
+NotADirectoryError
+PermissionError
+ProcessLookupError
+TimeoutError
+ReferenceError
+RuntimeError
+NotImplementedError
+RecursionError
+SyntaxError
+IndentationError
+TabError
+SystemError
+TypeError
+ValueError
+UnicodeError
+UnicodeDecodeError
+UnicodeEncodeError
+UnicodeTranslateError
+alter
+revoke
+use after free
+sensitive
+misleading
+mislead
+abnormal
+Abuse of Functionality
+active wiretapping
+adversary
+attack
+attacks
+attacked
+attack potential
+attacker
+adversary
+anonymous login
+arbitrary code
+attempt
+blocked
+back door
+backdoor
+backtrack attack
+Binary planting
+birthday attack
+Billion Laughs attack
+blind attack
+Blind SQL Injection
+Blind XPath Injection
+block
+break
+broken
+brute force
+bruteforce
+buffer overflow
+bypass
+bypasses
+bypassed
+Cache Poisoning
+Cash Overflow
+clickjacking
+clickjack
+clickjacked
+Code Injection
+command injection
+compromise
+Content Security Policy
+Content Spoofing
+corrupt
+corrupts
+corruption
+cookie tossing
+covert channel
+crack
+cracker
+cracking
+crash
+Credential stuffing
+Cross Frame Scripting
+cross-protocol theft
+cross-protocol thefts
+cross protocol theft
+cross protocol thefts
+cross-protocol attacks
+cross-protocol attack
+cross protocol attacks
+cross protocol attack
+Cross Site History Manipulation
+cross site resource forgery
+cross site scripting
+Cross Site Tracing
+cross-site resource forgery
+cross-site scripting
+Cross-User Defacement
+Cross User Defacement
+crsf
+Cryptanalysis
+Custom Special Character Injection
+cut and paste attack
+cut-and-paste attack
+cve
+dangling threat
+dangling vulnerability
+dangerous
+data loss
+Data Structure Attack
+dataloss
+deadlock
+deception
+deface
+denial of service
+Denial of Service
+denial-of-access
+denial-of-service
+dns poison
+dns poisoning
+DOS
+ddos
+denied
+denies
+dictionary attack
+Direct Dynamic Code Evaluation
+directory climbing
+disclose
+disclosure
+disrupt
+disruption
+distributed attack
+dot-dot-slash
+downgrade attack
+Easter egg
+eavesdropping
+eavesdrop
+eavesdropped
+elevation of privilege
+elevation of privileges
+escalation of privilege
+escalation of privileges
+Embedded Malicious Code
+erase
+Eval Injection
+evil
+evil wifi hotspot
+Execution After Redirect
+exit
+exploit
+expose
+exposure
+fail
+failed
+fails
+failure
+falsification
+fake
+faking
+faked
+flaw
+flooding
+Forced browsing
+forge
+Format string attack
+Fork bomb
+fraggle attack
+fraud
+freeze
+freezes
+Full Path Disclosure
+hang
+heap overflow
+heartbleed
+hijack
+hijack attack
+hostile
+HTTP Response Splitting
+ICMP flood
+impersonate
+incapacitation
+indirect attack
+information disclosure
+inject
+injection
+insecure
+inside attack
+integer overflow
+interception
+interpreter injection
+intruder
+intrusion
+invoking untrusted mobile code
+jamming
+kracker
+land attack
+ldap injection
+ldapi
+leak
+leaked
+leaks
+leaking
+leakage
+lfi
+local file inclusion
+locale attack
+log injection
+logic bomb
+malicious
+malware
+man in the middle
+man in the middle attack
+Man-in-the-browser attack
+Man-in-the-browser
+man-in-the-middle
+man-in-the-middle attack
+misconfiguration
+mitm
+modification
+modified
+modify
+modifies
+Morris Worm
+malicious logic
+natural disaster
+not trusted
+object hijack
+One-Click Attack
+overflow
+overwrite
+packet monkey
+page jacking
+pagejacking
+Parameter Delimiter
+Path Traversal
+penetrate
+penetration
+phishing
+phished
+piggyback attack
+ping of death
+ping sweep
+pollution attack
+Probabilistic Techniques
+Protocol Manipulation
+rainbow table
+ReDoS
+Reflected DOM Injection
+reflection attack
+reflection injection
+reflector attack
+Regular expression Denial of Service
+remote file inclusion
+replay attack
+repudiation
+Repudiation Attack
+resource consumption
+Resource Depletion
+Resource exhaustion
+Resource Injection
+Resource Manipulation
+reveal
+reverse engineering
+rfi
+scriptkiddy
+Server-Side Includes Injection
+Server-side Request Forgery
+SSRF
+Session fixation
+Session hijacking attack
+Session Prediction
+Setting Manipulation
+smurf attack
+snif
+sniff
+sniffing
+social engineering
+spam
+spams
+spamming
+spammed
+Special Element Injection
+spike
+spoof
+spoofs
+spoofing
+spyware
+sql injection
+sqli
+stack overflow
+steal
+stolen
+suspicious
+takeover
+tamper
+tampering
+tap jacking
+tarbomb
+teardrop attack
+theft
+threat
+time bomb
+tracker
+Traffic flood
+trick
+tricks
+tricked
+trojan
+Trojan horse
+ui redressing
+ui redress
+ui redress attack
+ui redress attacks
+unauthenticate
+unauthorize
+uncheck
+unicode attack
+Unicode Encoding
+unsafe
+unsecure
+untrusted
+untrusted data
+unencrypted
+url spoofing
+victim
+virus
+vulnerabilities
+vulnerability
+vulnerable
+weakness
+Web Parameter Tampering
+web frame attack
+web frame attacks
+web framing attack
+web framing attacks
+wiretapping
+worm
+xml attack
+xml injection
+xmli
+xml external entity
+xml external entity attack
+XPATH Injection
+xpath query tampering
+XSHM
+XSRF
+xss
+XSS
+xxe
+YAML bomb
+zombie
+Zip bomb
+zip of death
+likejacking
+cursorjacking
+password manager attack
+password manager attacks
+privilege escalation
+privilege elevation
+violate
+violates
+violated
+violating

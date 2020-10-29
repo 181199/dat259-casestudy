@@ -1,0 +1,143 @@
+acme,1
+add,5
+also,6
+and it,3
+and the,4
+apache,8
+apache camel,6
+apache camel component,3
+apache camel impl,2
+apache camel processor,1
+apache camel util,3
+append,1
+at org,1
+at org apache,1
+auth,2
+authentification,1
+bean,2
+builder,2
+call,2
+camel,17
+camel component,4
+camel impl,2
+camel impl defaultproducertemplate,1
+camel n,8
+camel n nabble,8
+camel processor,1
+camel util,3
+case,5
+class,7
+com,3
+cometd,2
+component,13
+context,4
+currently,5
+custom,3
+decoded,1
+defaultproducertemplate,1
+defaultproducertemplate java,1
+defaultproducertemplate java at,1
+delegateprocessor,1
+does not,5
+doinproducer,1
+e,4
+endpoint,9
+endpoints,6
+exception,4
+exchange,3
+expectedbody,1
+extension,2
+file,6
+files,5
+first,2
+foobbar,1
+from a,4
+from the,4
+ftp,2
+gt,2
+gt lt,2
+header,5
+html,6
+http,15
+http camel,6
+http camel n,6
+httpproducer,2
+id,2
+if the,3
+impl,2
+impl defaultproducertemplate,1
+import,1
+import org,1
+import org apache,1
+in the,13
+instrumentationprocessor,1
+issue,8
+java,4
+java at,1
+java at org,1
+jms,2
+jmsmessage,1
+jsch,2
+key,2
+license,1
+lt,3
+message,7
+messages,2
+method,5
+mock,1
+n,8
+n nabble,8
+nabble,10
+new,4
+not support,3
+null,3
+of the,7
+on the,5
+one,5
+onejar,1
+org,6
+org apache,6
+org apache camel,6
+parameters,1
+password,8
+process,3
+processor,2
+producercache,1
+producercache java,1
+producercache java at,1
+protected,2
+provide,4
+public,3
+querystring,1
+redeliveryerrorhandler,1
+removed,3
+result,2
+returns,2
+route,4
+routedefinition,1
+seda,1
+see,5
+send,3
+set,4
+sftp,2
+splitter,1
+ssh,2
+string,5
+support,7
+test,3
+the httpproducer,2
+the java,2
+the uri,4
+timeout,1
+to the,10
+uri,8
+uris,4
+use,5
+used,5
+using,4
+util,3
+we should,3
+when i,3
+will be,1
+with the,4
+would,3

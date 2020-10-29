@@ -1,0 +1,100 @@
+[junit],2
+access,25
+apache,33
+apache derby,22
+apache derby impl,14
+apache derbytesting,17
+apache derbytesting functiontests,15
+apache derbytesting junit,8
+at java,19
+at junit,6
+at junit extensions,6
+at org,24
+at org apache,23
+basicruntestdecorator,6
+basicruntestdecorator java,6
+basicruntestdecorator java at,6
+database,22
+derby,51
+derby impl,14
+derby impl store,3
+derbytesting,17
+derbytesting functiontests,15
+derbytesting functiontests tests,12
+derbytesting junit,8
+error,27
+exception,18
+extensions,7
+extensions testdecorator,6
+extensions testdecorator basicruntestdecorator,6
+extensions testsetup,6
+extensions testsetup protecttestsetup,6
+extensions testsetup runtestsetup,6
+failed,13
+for locale,4
+found,9
+found support,4
+found support for,4
+framework,6
+functiontests,15
+functiontests tests,12
+gt,3
+ijuser,1
+ijuser gt,1
+impl,14
+impl store,3
+impl store raw,3
+in the,30
+java,42
+java at,20
+java at java,15
+java at junit,6
+java at org,19
+java lang,19
+java security,20
+jdbc,15
+junit,15
+junit extensions,6
+junit extensions testdecorator,6
+junit extensions testsetup,6
+junit framework,5
+lang,20
+locale,5
+log,11
+lt,13
+net,7
+org,31
+org apache,30
+org apache derby,22
+org apache derbytesting,15
+protecttestsetup,6
+protecttestsetup java,6
+protecttestsetup java at,6
+raw,3
+runtestsetup,6
+runtestsetup java,6
+security,30
+select,8
+server,19
+source,12
+source at,8
+source at org,7
+sql,22
+store,11
+store raw,3
+sun,12
+support,9
+support for,6
+support for locale,4
+test,33
+testdecorator,6
+testdecorator basicruntestdecorator,6
+testdecorator basicruntestdecorator java,6
+tests,28
+testsetup,6
+testsetup protecttestsetup,6
+testsetup protecttestsetup java,6
+testsetup runtestsetup,6
+testsetup runtestsetup java,6
+user,20
+version,9
